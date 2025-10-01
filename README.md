@@ -27,7 +27,8 @@
 - **Core CS**: Data Structures & Algorithms, OOP, OS, DBMS, System Design  
 - **Frontend**: React.js, Next.js, TailwindCSS, ShadCN  
 - **Backend**: Node.js, Express.js, REST APIs, JWT  
-- **Databases & Tools**: MongoDB, MySQL, Docker, Git/GitHub, Linux  
+- **Databases & Tools**: MongoDB, MySQL, Docker, Git/GitHub, Linux
+- **Machine Learning & AI**: Supervised Learning, Neural Networks, CNN, ANN 
 - **Maths for ML**: Probability, Linear Algebra, Multivariable Calculus  
 - **Soft Skills**: Problem Solving, Strategic Thinking, Communication  
 
