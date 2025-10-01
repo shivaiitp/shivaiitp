@@ -6,14 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaiitp&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaiitp&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</p>
-
----
-
 ## 💼 Experience
 - **Research Intern** @ [Tata Research Development & Design Center (TRDDC)](https://www.tcs.com/research-and-innovation) *(May 2025 – July 2025)*  
   - Built a **persona-driven recommendation algorithm** for music personalization.  
@@ -31,6 +23,14 @@
 - **Machine Learning & AI**: Supervised Learning, Neural Networks, CNN, ANN 
 - **Maths for ML**: Probability, Linear Algebra, Multivariable Calculus  
 - **Soft Skills**: Problem Solving, Strategic Thinking, Communication  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivaiitp&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaiitp&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
 
 ---
 
