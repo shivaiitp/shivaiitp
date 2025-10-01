@@ -36,7 +36,7 @@
 ## 🌍 Let’s Connect
 - 🌐 Portfolio: [shiva-singh-portfolio.vercel.app](https://shiva-singh-portfolio.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/shiva-singh](https://www.linkedin.com/in/shiva-singh-421152167/)  
-- 🐦 Twitter/X: [x.com/heyitshiva](https://x.com/_shiva_iitp)  
+- 🐦 Twitter/X: [x.com/_Shiva_iitp](https://x.com/_shiva_iitp)  
 - 🏆 LeetCode: [leetcode.com/shivu_iitp](https://leetcode.com/u/shivu_iitp/)  
 - ⚡ Codeforces: [codeforces.com/profile/shiva_iitp22](https://codeforces.com/profile/shiva_iitp22)  
 
